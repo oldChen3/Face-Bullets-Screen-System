@@ -18,7 +18,7 @@ OpenCV-Python
 
 How to Run?
 1.install the dependencies
-2.git clone https://github.com/
+2.git clone https://github.com/oldChen3/Face-Bullets-Screen-System.git
 3.cd face_bullet_screen
 4.python App_Main.py
 5.you can input key 's' to stop the video, then to input you words, the key 'Enter' will finish you input and continue the video
